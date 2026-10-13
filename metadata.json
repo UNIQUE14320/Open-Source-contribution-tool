@@ -1,0 +1,6 @@
+{
+  "name": "GitContrib - Open Source CLI & Maven Toolkit",
+  "description": "Automated open source contribution CLI built with Picocli, Git, REST API, and Jackson JSON parsing on Maven. Track issues and submit pull requests directly from your terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
